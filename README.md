@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArnaRuChD
+- 👋 Hi, I’m @ArnSuChS
 - 👀 I’m interested in AI and ML, Cyber Security and Ethical Hacking, IOT, Web Development.
 - ⚡ Fun fact: I am crazy about trains
 
